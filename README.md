@@ -38,7 +38,7 @@ If you want to hide your IP address and access restricted global platforms witho
 
 #### Download Kite VPN
 Reclaim your online freedom and privacy today:
-- **Official Website**: [KiteVPN](http://kitevip.vip)
+- **Official Website**: [KiteVPN](https://kitevip.vip?f=github)
 - Start your free trial with a single click.
 
 ---
@@ -77,7 +77,7 @@ Reclaim your online freedom and privacy today:
 
 #### 立即下载 Kite VPN
 守护您的数字主权，畅享无界网络：
-- **官方网站**：[KiteVPN](http://kitevip.vip)
+- **官方网站**：[KiteVPN](https://kitevip.vip?f=github)
 - 注册即可开启免费试用。
 
 ---
@@ -116,5 +116,5 @@ Reclaim your online freedom and privacy today:
 
 #### Скачать Kite VPN
 Верните контроль над своими личными данными уже сегодня:
-- **Наш сайт**: [KiteVPN](http://kitevip.vip)
+- **Наш сайт**: [KiteVPN](https://kitevip.vip?f=github)
 - Зарегистрируйтесь и начните бесплатный пробный период в один клик.
